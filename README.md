@@ -62,7 +62,7 @@ My main focus is backend and full-stack web development using **PHP, Laravel, Co
 
 ## Selected Projects
 
-I am currently preparing selected projects for public release with clean documentation, dummy data, installation instructions, and screenshots.
+My selected projects showcase practical experience in web development, database applications, software testing, and data analysis.
 
 | Project | Description | Technology |
 |---|---|---|
